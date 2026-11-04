@@ -1,5 +1,5 @@
-[![committers.top badge](https://user-badge.committers.top/belarus/StanislavKozachenko.svg)](https://user-badge.committers.top/belarus/StanislavKozachenko)
+[![contributor.top](https://img.shields.io/endpoint?url=https%3A%2F%2Fcontributor.top%2Fu%2Fstanislavkozachenko.json&style=flat)](https://contributor.top/find/?login=stanislavkozachenko)
 
-[![committers.top badge](https://user-badge.committers.top/belarus_public/StanislavKozachenko.svg)](https://user-badge.committers.top/belarus_public/StanislavKozachenko)
+[![contributor.top](https://img.shields.io/endpoint?url=https%3A%2F%2Fcontributor.top%2Fu%2Fstanislavkozachenko.all.json&style=flat)](https://contributor.top/find/?login=stanislavkozachenko&tab=all)
 
-[![committers.top badge](https://user-badge.committers.top/belarus_private/StanislavKozachenko.svg)](https://user-badge.committers.top/belarus_private/StanislavKozachenko)
+[![contributor.top](https://img.shields.io/endpoint?url=https%3A%2F%2Fcontributor.top%2Fu%2Fstanislavkozachenko.commits.json&style=flat)](https://contributor.top/find/?login=stanislavkozachenko&tab=commits)
